@@ -1,0 +1,16 @@
+C:\Users\INDIA\source\repos\InventoryManagementProgram\InventoryManagementProgram\bin\Debug\netcoreapp3.1\InventoryManagementProgram.exe
+C:\Users\INDIA\source\repos\InventoryManagementProgram\InventoryManagementProgram\bin\Debug\netcoreapp3.1\InventoryManagementProgram.deps.json
+C:\Users\INDIA\source\repos\InventoryManagementProgram\InventoryManagementProgram\bin\Debug\netcoreapp3.1\InventoryManagementProgram.runtimeconfig.json
+C:\Users\INDIA\source\repos\InventoryManagementProgram\InventoryManagementProgram\bin\Debug\netcoreapp3.1\InventoryManagementProgram.runtimeconfig.dev.json
+C:\Users\INDIA\source\repos\InventoryManagementProgram\InventoryManagementProgram\bin\Debug\netcoreapp3.1\InventoryManagementProgram.dll
+C:\Users\INDIA\source\repos\InventoryManagementProgram\InventoryManagementProgram\bin\Debug\netcoreapp3.1\InventoryManagementProgram.pdb
+C:\Users\INDIA\source\repos\InventoryManagementProgram\InventoryManagementProgram\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\INDIA\source\repos\InventoryManagementProgram\InventoryManagementProgram\obj\Debug\netcoreapp3.1\InventoryManagementProgram.csproj.AssemblyReference.cache
+C:\Users\INDIA\source\repos\InventoryManagementProgram\InventoryManagementProgram\obj\Debug\netcoreapp3.1\InventoryManagementProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INDIA\source\repos\InventoryManagementProgram\InventoryManagementProgram\obj\Debug\netcoreapp3.1\InventoryManagementProgram.AssemblyInfoInputs.cache
+C:\Users\INDIA\source\repos\InventoryManagementProgram\InventoryManagementProgram\obj\Debug\netcoreapp3.1\InventoryManagementProgram.AssemblyInfo.cs
+C:\Users\INDIA\source\repos\InventoryManagementProgram\InventoryManagementProgram\obj\Debug\netcoreapp3.1\InventoryManagementProgram.csproj.CoreCompileInputs.cache
+C:\Users\INDIA\source\repos\InventoryManagementProgram\InventoryManagementProgram\obj\Debug\netcoreapp3.1\InventoryManagementProgram.csproj.CopyComplete
+C:\Users\INDIA\source\repos\InventoryManagementProgram\InventoryManagementProgram\obj\Debug\netcoreapp3.1\InventoryManagementProgram.dll
+C:\Users\INDIA\source\repos\InventoryManagementProgram\InventoryManagementProgram\obj\Debug\netcoreapp3.1\InventoryManagementProgram.pdb
+C:\Users\INDIA\source\repos\InventoryManagementProgram\InventoryManagementProgram\obj\Debug\netcoreapp3.1\InventoryManagementProgram.genruntimeconfig.cache
